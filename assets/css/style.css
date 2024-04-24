@@ -1,0 +1,270 @@
+
+#mini-navbar{
+    background-color: #ff9100;
+    height: 40px;
+    align-items: center;
+}
+
+.nav-up-area{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 7px;
+}
+
+.nav-left{
+   color: white;
+   cursor: pointer;
+}
+
+.nav-right{
+    color: white;
+    cursor: pointer;
+}
+
+#header-down{
+    margin-top: 25px;
+    margin-left: 45px;
+    align-items: center;
+}
+
+.header-down-area{
+display:flex
+}
+
+.header-down-left{
+    cursor: pointer;
+}
+
+.header-down-mid{
+    width: 100%;
+    align-items: center;  
+    display: flex;
+    text-align: center;
+    list-style: none;
+    color: #727272;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+.header-down-mid span{
+    margin-right: 25px;
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+    text-align: right;
+    padding-left: 18px;
+    font-weight: 649;
+}
+
+.header-down-right{
+    margin-right: 27px;
+    margin-top: 19px;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+
+#main-area{
+    align-items: center;
+}
+
+.main-img{
+    margin-top: 20px;
+    margin-left: 2px;
+    cursor: pointer
+}
+
+.main-card{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.main-card h1{
+    text-align: center;
+    margin-top: 30px;
+    color: #727272;
+}
+
+.package-1{
+    background-color:#ff9100 ;
+    height: 400px;
+    border-radius: 20px;
+    cursor: pointer;
+   
+}
+.price{
+   margin-top: 10px;
+   font-size: 2rem;
+   text-align: right;
+   margin-right: 16px;
+   color: white;  
+}
+
+.avatage-name{
+    color: white;
+    text-align: center;
+}
+.avatage-info-up{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+
+.avatage-info-up h1,h2{
+    margin-top: 9px;
+    color: white;
+    text-align: center;
+    
+}
+.avatage-info-mid{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+    
+}
+.avatage-info-mid h1{
+    color: white;
+    text-align: center;
+}
+.avatage-info-down{
+    
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+.avatage-info-down h3{
+    
+    color: white;
+    text-align: center;
+}
+
+.package-2{
+    background-color:#ff9100 ;
+    height: 400px;
+    border-radius: 20px;
+    cursor: pointer;
+   
+}
+.price{
+   margin-top: 10px;
+   font-size: 2rem;
+   text-align: right;
+   margin-right: 16px;
+   color: white;  
+}
+
+.avatage-name{
+    color: white;
+    text-align: center;
+}
+.avatage-info-up{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+
+.avatage-info-up h1,h2{
+    margin-top: 9px;
+    color: white;
+    text-align: center;
+    
+}
+.avatage-info-mid{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+    
+}
+.avatage-info-mid h1{
+    color: white;
+    text-align: center;
+}
+.avatage-info-down{
+    
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+.avatage-info-down h3{
+    
+    color: white;
+    text-align: center;
+}
+
+.package-3{
+    background-color:#ff9100 ;
+    height: 400px;
+    border-radius: 20px;
+    cursor: pointer;
+   
+}
+.price{
+   margin-top: 10px;
+   font-size: 2rem;
+   text-align: right;
+   margin-right: 16px;
+   color: white;  
+}
+
+.avatage-name{
+    color: white;
+    text-align: center;
+}
+.avatage-info-up{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+
+.avatage-info-up h1,h2{
+    margin-top: 9px;
+    color: white;
+    text-align: center;
+    
+}
+.avatage-info-mid{
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+    
+}
+.avatage-info-mid h1{
+    color: white;
+    text-align: center;
+}
+.avatage-info-down{
+    
+    background-color: rgba(123, 113, 113, 0.336);
+    border-bottom: 2px solid black;
+    &:hover{
+        background-color: #ff9100
+    }
+}
+.avatage-info-down h3{
+    
+    color: white;
+    text-align: center;
+}
+
+
+
+
